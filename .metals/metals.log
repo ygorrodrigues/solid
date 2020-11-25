@@ -1,0 +1,4 @@
+2020.11.25 17:48:37 INFO  Started: Metals version 0.9.6 in workspace 'C:\Users\ygort\OneDrive\Documentos\Projetos\solidapi' for client vscode.
+2020.11.25 17:48:38 INFO  time: initialize in 1.45s
+2020.11.25 17:48:44 WARN  Build server is not auto-connectable.
+2020.11.25 17:48:44 WARN  no build tool detected in workspace 'C:\Users\ygort\OneDrive\Documentos\Projetos\solidapi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 

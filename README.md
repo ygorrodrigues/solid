@@ -9,12 +9,11 @@ Projeto com o intuito de aprender mais sobre o S.O.L.I.D.
 
 ## Dependências utilizadas
 
-Yarn, typescript, express,
+Yarn, typescript e express
 
 ## Estrutura
 
 A estrutura segue um padrão "package by feature" onde cada feature possui uma pasta com os arquivos daquela funcionalidade.
-Parei no minuto 31.
 
 ### Referência utilizada
 
